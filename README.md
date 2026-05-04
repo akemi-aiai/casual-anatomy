@@ -9,6 +9,9 @@ Upload 1–3 photos and get a refined risk breakdown. What looks suspicious, wha
   - Risk level
   - Quality checklist
   - Suggested seller messages (RU/EN + 中文)
+ 
+# Open
+https://akemi-aiai.github.io/casual-anatomy/
 
 ## Ownership
 © rara_illustra — concept, design, and text.
