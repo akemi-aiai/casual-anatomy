@@ -1,8 +1,14 @@
 # Casual Anatomy — Product Risk Scan
 
-Casual Anatomy is a lightweight browser-based tool that helps users check product photos before buying an item online.
+Upload 1–3 photos and get a refined risk breakdown. What looks suspicious, what’s missing, and the exact questions to send the seller. Runs locally in your browser — no uploads, no cloud. It also suggests ready-to-send questions for the seller in multiple languages.
 
-The app reviews 1–3 uploaded photos and gives a quick risk-based result based on what is visible in the images: photo coverage, clarity, consistency, glare, and missing details. It also suggests ready-to-send questions for the seller in multiple languages.
+## What it does
+- Upload **1–3 photos**
+- Shows a **20-second scan**
+- Produces:
+  - Risk level
+  - Quality checklist
+  - Suggested seller messages (RU/EN + 中文)
 
-
-https://akemi-aiai.github.io/casual-anatomy/
+## Ownership
+© rara_illustra — concept, design, and text.
